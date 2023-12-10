@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 205R_FuelBlock
+  m_EditorClassIdentifier: 
+  _guid: 43170e5390d208746a1e1a4251d3158c
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 3987afe392148df489bf1c62f51518af, type: 2}
+    itemGUID: 3987afe392148df489bf1c62f51518af
+    amount: 1
+  outputs:
+  - _item: {fileID: 11400000, guid: c988b86cb3e0006419a2bc32f8d92641, type: 2}
+    itemGUID: c988b86cb3e0006419a2bc32f8d92641
+    amount: 2
+  tickCost: 2

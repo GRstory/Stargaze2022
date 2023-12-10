@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 502R_DysonPiece
+  m_EditorClassIdentifier: 
+  _guid: 12ecac758e61d43499c863eed9c677e4
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: c37a0f966dc05584e88eb5846837bdbe, type: 2}
+    itemGUID: c37a0f966dc05584e88eb5846837bdbe
+    amount: 1
+  - _item: {fileID: 11400000, guid: f5ab224a7742d5745943e82bc2a40af0, type: 2}
+    itemGUID: f5ab224a7742d5745943e82bc2a40af0
+    amount: 1
+  outputs:
+  - _item: {fileID: 11400000, guid: a3d2e91e5812e9f45bc310a48d3ad581, type: 2}
+    itemGUID: a3d2e91e5812e9f45bc310a48d3ad581
+    amount: 1
+  tickCost: 2

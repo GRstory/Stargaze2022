@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 504R_SpaceAlloy
+  m_EditorClassIdentifier: 
+  _guid: ab141539f3ae5564a9dec3637ad81934
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 15eabacfebb94e04d85602a08ba3fd58, type: 2}
+    itemGUID: 15eabacfebb94e04d85602a08ba3fd58
+    amount: 2
+  outputs:
+  - _item: {fileID: 11400000, guid: c37a0f966dc05584e88eb5846837bdbe, type: 2}
+    itemGUID: c37a0f966dc05584e88eb5846837bdbe
+    amount: 1
+  tickCost: 2

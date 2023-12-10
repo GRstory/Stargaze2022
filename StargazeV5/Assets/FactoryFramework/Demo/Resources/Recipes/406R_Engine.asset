@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 406R_Engine
+  m_EditorClassIdentifier: 
+  _guid: 0232ea03bf7a27443b1a28ff4f64ff7e
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 8287dce2fa270c845b72e768cc3a1aa6, type: 2}
+    itemGUID: 8287dce2fa270c845b72e768cc3a1aa6
+    amount: 2
+  - _item: {fileID: 11400000, guid: d174d86b906eaaf4c9447de771ad8d9a, type: 2}
+    itemGUID: d174d86b906eaaf4c9447de771ad8d9a
+    amount: 2
+  outputs:
+  - _item: {fileID: 11400000, guid: 50b5285bf282c2a4db85709c55b7c6bd, type: 2}
+    itemGUID: 50b5285bf282c2a4db85709c55b7c6bd
+    amount: 1
+  tickCost: 2

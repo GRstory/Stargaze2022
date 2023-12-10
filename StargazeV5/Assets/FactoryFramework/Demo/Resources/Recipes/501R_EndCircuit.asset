@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 501R_EndCircuit
+  m_EditorClassIdentifier: 
+  _guid: a1176485b7c305e4ab37e27ba344f4e7
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 0986c6ceee7300d48804fcabf2e8981b, type: 2}
+    itemGUID: 0986c6ceee7300d48804fcabf2e8981b
+    amount: 5
+  outputs:
+  - _item: {fileID: 11400000, guid: ede21c2a7c61e4945a21030007f1b56c, type: 2}
+    itemGUID: ede21c2a7c61e4945a21030007f1b56c
+    amount: 1
+  tickCost: 5

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b597242af57330945a22e8bf03013df0, type: 3}
+  m_Name: 206Dex_UseableUranium
+  m_EditorClassIdentifier: 
+  _id: 204
+  _name: "\uAC00\uACF5\uB41C \uC6B0\uB77C\uB284"
+  _tooltip: "\uC0AC\uC6A9\uC744 \uC704\uD574 \uC800\uB18D\uCD95\uB41C \uC6B0\uB77C\uB284\uC785\uB2C8\uB2E4\n\uC81C\uC791\uBC95:
+    \uC6B0\uB77C\uB284 \uC6D0\uC11D ->\uC81C\uC791\uAE30"
+  _iconSprite: {fileID: 21300000, guid: fa0b543a848093a4eb8d11c88e10552b, type: 3}
+  _dropItemPrefab: {fileID: 0}
+  _maxAmount: 1
+  _value: 1

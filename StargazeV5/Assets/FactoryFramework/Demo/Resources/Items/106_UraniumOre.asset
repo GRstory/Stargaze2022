@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc93331e9d78834392e6618f7c1427e, type: 3}
+  m_Name: 106_UraniumOre
+  m_EditorClassIdentifier: 
+  _guid: 7ccebc9d2e079b94c82c932a243c85d9
+  icon: {fileID: 21300000, guid: 396313df414c3924c93a659b8421b9e0, type: 3}
+  prefab: {fileID: 9008315631786441923, guid: 479ec8038d1434f44806cc2e2d6c64be, type: 3}
+  itemData:
+    description: 106
+    maxStack: 300
+  DebugColor: {r: 0, g: 0, b: 0, a: 0}

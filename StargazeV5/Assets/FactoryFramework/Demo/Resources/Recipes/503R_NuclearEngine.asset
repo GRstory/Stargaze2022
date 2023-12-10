@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 503R_NuclearEngine
+  m_EditorClassIdentifier: 
+  _guid: a5bd36071a87fdd429484c08a4293222
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 50b5285bf282c2a4db85709c55b7c6bd, type: 2}
+    itemGUID: 50b5285bf282c2a4db85709c55b7c6bd
+    amount: 1
+  - _item: {fileID: 11400000, guid: b9f426673366b914696b5ad1c57552b0, type: 2}
+    itemGUID: b9f426673366b914696b5ad1c57552b0
+    amount: 1
+  outputs:
+  - _item: {fileID: 11400000, guid: 469ee4101ce181540af7ae89b616e328, type: 2}
+    itemGUID: 469ee4101ce181540af7ae89b616e328
+    amount: 1
+  tickCost: 2

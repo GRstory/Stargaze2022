@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 203R_Titanium
+  m_EditorClassIdentifier: 
+  _guid: 4e3a33b4955f730448ab404d29ae2726
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 3b7aeedd63031d6498c3fce4b54c81e4, type: 2}
+    itemGUID: 3b7aeedd63031d6498c3fce4b54c81e4
+    amount: 1
+  outputs:
+  - _item: {fileID: 11400000, guid: a4b54c7eccfe1994bb053799d91a894d, type: 2}
+    itemGUID: a4b54c7eccfe1994bb053799d91a894d
+    amount: 1
+  tickCost: 1

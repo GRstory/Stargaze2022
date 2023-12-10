@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b597242af57330945a22e8bf03013df0, type: 3}
+  m_Name: 404Dex_SourceCircuit
+  m_EditorClassIdentifier: 
+  _id: 404
+  _name: "\uC790\uC6D0\uD68C\uB85C"
+  _tooltip: "\uC790\uC6D0\uC744 \uD6A8\uC728\uC801\uC73C\uB85C \uC774\uC6A9\uD558\uAE30
+    \uC704\uD55C \uC5F0\uC0B0\uD68C\uB85C\uC785\uB2C8\uB2E4.\n\uC81C\uC791\uBC95:
+    \uC804\uC790\uD68C\uB85C+\uD1B1\uB2C8\uBC14\uD034 ->\uC870\uB9BD\uAE30"
+  _iconSprite: {fileID: 21300000, guid: e35b4b87c1e0b5344818ba70a13db827, type: 3}
+  _dropItemPrefab: {fileID: 0}
+  _maxAmount: 1
+  _value: 1

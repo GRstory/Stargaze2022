@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9aff95871025114e8b9f838e626cf73, type: 3}
+  m_Name: 403R_SolarPannel
+  m_EditorClassIdentifier: 
+  _guid: ab05de7bbdd877948ac6fcb6a968e3a3
+  numInputs: 1
+  numOutputs: 1
+  inputs:
+  - _item: {fileID: 11400000, guid: 3192458ddde964c4291760e387398269, type: 2}
+    itemGUID: 3192458ddde964c4291760e387398269
+    amount: 2
+  - _item: {fileID: 11400000, guid: 4483cd22be8d91f4f982f71a84df7173, type: 2}
+    itemGUID: 4483cd22be8d91f4f982f71a84df7173
+    amount: 2
+  outputs:
+  - _item: {fileID: 11400000, guid: f5ab224a7742d5745943e82bc2a40af0, type: 2}
+    itemGUID: f5ab224a7742d5745943e82bc2a40af0
+    amount: 1
+  tickCost: 2

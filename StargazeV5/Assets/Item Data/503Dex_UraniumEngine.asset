@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b597242af57330945a22e8bf03013df0, type: 3}
+  m_Name: 503Dex_UraniumEngine
+  m_EditorClassIdentifier: 
+  _id: 503
+  _name: "\uC6D0\uC790\uB825 \uC5D4\uC9C4"
+  _tooltip: "\uAC15\uB825\uD55C \uC6B0\uB77C\uB284\uC744 \uC5F0\uB8CC\uB85C \uC774\uC6A9\uD558\uC5EC
+    \uAE30\uB3D9\uB825\uC744 \uC81C\uACF5\uD558\uB294 \uC5D4\uC9C4\uC785\uB2C8\uB2E4\n\uC81C\uC791\uBC95:\uC5D4\uC9C4+\uC804\uC790\uD68C\uB85C->\uC870\uB9BD\uAE30"
+  _iconSprite: {fileID: 21300000, guid: 6fe917295baf6b74880149136cd67c43, type: 3}
+  _dropItemPrefab: {fileID: 0}
+  _maxAmount: 1
+  _value: 1
